@@ -30,7 +30,10 @@ Embark on a journey through the complex skies of Swiss private law with Wingbot 
 
 # Demo
 
-Coming soon!
+[Full demo on loom](https://www.loom.com/share/a9583e9e45594530a198c5e8b2d2698b?sid=2f2338e2-eee5-481e-a596-0803c093c477) 
+
+![img.png](img.png)
+![img_1.png](img_1.png)
 
 ---
 
